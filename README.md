@@ -1,2 +1,1 @@
-# wow_training
-My codedex submission for my half course assessment
+Here are my exams submissions
